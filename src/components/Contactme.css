@@ -1,0 +1,19 @@
+.contactme {
+  margin-top: 45px;
+  background-color: #ff4136;
+}
+
+.contact-heading {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  padding: 20px;
+  background-color: #141414;
+}
+
+.footer p {
+  color: white;
+  padding-top: 15px;
+}

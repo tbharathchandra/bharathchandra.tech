@@ -1,0 +1,21 @@
+.work-heading {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #ff6347;
+  color: #1b1b1b;
+}
+.work-div {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.work-card {
+  width: 100%;
+  height: auto;
+}
+
+.work-img {
+  height: 300px;
+  width: auto;
+}

@@ -1,0 +1,15 @@
+.article-img {
+  width: 100%;
+  height: 300px;
+}
+.articles-heading {
+  margin-top: 35px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: tomato;
+  color: #1b1b1b;
+}
+
+.articles-card {
+  margin-bottom: 15px;
+}

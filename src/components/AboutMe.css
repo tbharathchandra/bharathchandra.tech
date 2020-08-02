@@ -1,0 +1,41 @@
+* {
+  font-family: "Red Rose", cursive;
+}
+
+.about-image {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.about-content {
+  margin-top: 35px;
+}
+
+.about-heading {
+  font-size: 2rem;
+  color: #1b1b1b;
+  background-color: tomato;
+  padding: 20px;
+}
+
+.about-skills-heading {
+  font-size: 1.5rem;
+}
+
+.about-content col {
+  display: flex;
+  align-items: center;
+}
+
+.skills-box {
+  margin-bottom: 10px;
+}
+.skill-card:hover {
+  border-color: tomato;
+}
+
+.faq {
+  font-weight: 800;
+  font-style: bold;
+}
